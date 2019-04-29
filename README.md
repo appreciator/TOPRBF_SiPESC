@@ -4,7 +4,7 @@ It is based on a parameterized level set method using radial basis functions, wh
 
 Wei, P., Li, Z., Li, X., & Wang, M. Y. (2018). An 88-line MATLAB Code for the Parameterized Level Set Method Based Topology Optimization Using Radial Basis Functions. Structural and Multidisciplinary Optimization, 58(2), 831-849</br>
 
-Link:https://link.springer.com/article/10.1007/s00158-018-1904-8
+Link: https://link.springer.com/article/10.1007/s00158-018-1904-8
 
 This script needs to be run in SiPESC, a CAE software developed by Dalian University of Technology. Website: http://sipesc.dlut.edu.cn
 
