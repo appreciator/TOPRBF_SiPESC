@@ -1,5 +1,5 @@
 # TOPRBF_SiPESC
-This is a Python program developed for the 2D topology optimization design of mean compliance minimum problem.</br>
+This is a Python program developed in December 2016 for the 2D topology optimization design of mean compliance minimum problem.</br>
 It is based on a parameterized level set method using radial basis functions, which is proposed in the following paper:</br>
 
 Wei, P., Li, Z., Li, X., & Wang, M. Y. (2018). An 88-line MATLAB Code for the Parameterized Level Set Method Based Topology Optimization Using Radial Basis Functions. Structural and Multidisciplinary Optimization, 58(2), 831-849</br>
