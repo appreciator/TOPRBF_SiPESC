@@ -8,4 +8,4 @@ This script needs to be run in SiPESC, a CAE software developed by Dalian Univer
 
 
 Install SiPESC, run this script, and select your cdb file exported by ANSYS, then you can finally obtain an optimized structural topology, such as follows:</br>
-![Image text](https://github.com/appreciator/TOPRBF_SiPESC/blob/master/Result.png)
+![Image text](https://raw.githubusercontent.com/appreciator/TOPRBF_SiPESC/master/Result.png)
